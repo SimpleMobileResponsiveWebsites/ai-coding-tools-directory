@@ -1,5 +1,4 @@
 import streamlit as st
-import webbrowser
 
 def main():
     st.set_page_config(page_title="AI Coding Tools Directory", layout="wide")
