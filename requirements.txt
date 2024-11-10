@@ -1,2 +1,1 @@
 streamlit>=1.31.0
-webbrowser3>=1.0.2
